@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omisionip.github.io/sitemap
+Sitemap: https://omisionip.github.io/app/sitemap
+Sitemap: https://omisionip.github.io/assets/sitemap
+Sitemap: https://omisionip.github.io/css/sitemap
+Sitemap: https://omisionip.github.io/includes/sitemap
+Sitemap: https://omisionip.github.io/item/sitemap
+Sitemap: https://omisionip.github.io/src/sitemap
